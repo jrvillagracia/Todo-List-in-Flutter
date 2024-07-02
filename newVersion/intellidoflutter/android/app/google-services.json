@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "885967776843",
+    "project_id": "intellido--flutter-version",
+    "storage_bucket": "intellido--flutter-version.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885967776843:android:36b3e6a2d92b182630b1ce",
+        "android_client_info": {
+          "package_name": "com.example.intellidoflutter"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMY8z2dGPnc9kzE7bfiSL02s81pBOI_Ds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
