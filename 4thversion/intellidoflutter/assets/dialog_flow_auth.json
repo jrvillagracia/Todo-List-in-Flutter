@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "intellido-dialogflow-alle",
+  "private_key_id": "0be4f80abdbbcf433a8caf7354b4e2eb56bb8439",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCrUAXl0j9daf4Y\nKKphMWnMAVWyC0gsOT1pis35E+A28jVTMb/4l6hC6FVGig6NX6dS2WRZt26fWwlf\nKQ0rVf9fpPeIRmUDWUm5FE3tUeE0420KiBAwJoDbSgvvLZVq8+H/Vc3hZckDiH3a\nIIJF0xif2UBwbNTjGbajuWIA1+MSJsjg0yLF7gMknYbO0XnEk2oQF4OofmRX/HsN\nbY0nMdqSk2yeSJVav97/wpWpwvWuIaje2tB1kgROsQ8Ztl9l1BGVvQSa5Gwuolax\nxwZynelFa2rke1iFsISjBrI4Uydru/68ncxelhXVnaiP9UIJbc1CVwgP5LV2ImmT\nBuPTCzjPAgMBAAECggEADBr4f7fuoFQ4D074UyvhtPe3LYCclftpeobDbUFZS6ir\n2fge/5r/2dJ/DB//TUAgG7ue2rQajgopzF6jPpeyFvkaQLfwtV7e1cQ4iXeKuWkE\nsITS2AQwgM5nr3wCHe+j3Z4bkTzXCnffpMU9T1/OUqVQZ2FZXb7YaBNWeIbI1eRn\n9suwbmmqbtcxKhA5Bt8jEFXFmX+NY1clXkTPZEuWir99iz0cDYkx16nS1zUui/50\nbcA98qUo0szkSfKKX3/H+2xy0oYxLtVim2jy4HeHD97gIXv3Kb7jhGnzoHRLCkRn\nKsm37rDTDxlFOVMu8ttcRfgUr4SLVXErB9pwWo9qYQKBgQDoD5NrJPvRaUEZG0A+\nxrkRVMsBnL3g5AGq9nRlJRbNoB1X/dAZvhgVpN4CmC0i97dwdKLS2WvNUz+xsaOe\nFg55egaQNmbsAh/74jNCwMUJB3MMXJ+sQ8ecwgKNQdJpXGXdYbFLtyPOM0+SlVv2\nMaVRYiDPqX4gL3J/9YCxigs6fwKBgQC8/CpBmd1q6xaOBqGWlbJwMwsry3QRasYX\nmUHsTOZu8HgqQZMcjPE7dcb41jazTdNk51WxRmeVra4cvP4B7mp3e2DB842abiZm\nfHYQO+nRS2gW3k9khTzORIyEWmXLPaLjw1p4Hk+iIYpgy2w6bXabiGh9FFpf4HKG\nqeGBxv65sQKBgH7Eq3p3bJy8C9TEPzdL5aNjF7bcwhlNVN/o3DK4rRlNI1qDC6BU\naOHB+4mdSeL1QZ9MB/p4zVwP4xaV/NSKJgQUNeun3FeG3aQCsJABsGE7UYzqOEup\nhyzKCwzRbTkjQX5LNMgw1n15KDniH6eA/VdU7KmkZIL+iGUAXvodd/7PAoGAA+v3\ntITM43sdbLUWhVl16n4krTP7pKDim3rCs3SlE4hJ9haGRwFlwCYhiuhnGjFzQZTL\nYnJjk+eWxWHmo4OfEfutdljnh1zhzx6mFJApuf4mmtLiMuPQ7zbc86Ismpsc1j0n\nk3aNkH/Br2CJTm0XGQMrp+zUM0klF0ZPN7I5dwECgYBgvyATyCT+eYUTxe/Sihdg\nXll+FiK0wwl9NBEvTy3IvD4LRee9jvTfBHMxE07Kx88QUZCN0CyBTcVRJ6P7X1kW\nmQGY3nBBZNz1JPkt1zX/Yk+O7cumqImONlTS5qp14gl09hjMjMo0E14dWOJ/J3Kq\nJoIqxopVWEKcrI42txKWmQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "intellidochatbot@intellido-dialogflow-alle.iam.gserviceaccount.com",
+  "client_id": "106176415080304668119",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/intellidochatbot%40intellido-dialogflow-alle.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
